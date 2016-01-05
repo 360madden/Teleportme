@@ -1,0 +1,5 @@
+[Module]
+Name=TeleportMe
+Version=1.03
+Files=TeleportMe.lua
+Enabled=1
